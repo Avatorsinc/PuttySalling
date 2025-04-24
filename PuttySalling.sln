@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PuttySalling", "PuttySalling\PuttySalling.pyproj", "{2C8B2DA9-800A-4528-A6DC-31617B58322A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8B2DA9-800A-4528-A6DC-31617B58322A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8B2DA9-800A-4528-A6DC-31617B58322A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E0A44B-4629-494A-81A0-9E800061DB09}
+	EndGlobalSection
+EndGlobal
